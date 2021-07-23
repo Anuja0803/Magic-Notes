@@ -1,0 +1,22 @@
+#heading{
+    color: rgb(155, 31, 9);
+}
+
+#notesHeading{
+    color: rgb(145, 28, 145);
+}
+
+.card{
+    background-color:rgb(47, 120, 129);
+}
+
+
+.noteCard{
+    background-color:gold;
+}
+
+#cardTitle{
+    font-family: 'Times New Roman';
+    color: rgb(231, 232, 233);
+    font-weight: bolder;
+}
